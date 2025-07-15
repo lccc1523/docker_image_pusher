@@ -1,3 +1,2 @@
 alpine
-docker.io/flannel/flannel:v0.22.2
-nginx:v1.22.0
+docker.io/flannel/flannel-cni-plugin:v1.2.0
